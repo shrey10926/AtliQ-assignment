@@ -1,0 +1,10 @@
+2024-04-20 17:07:01,634::werkzeug::_internal.py::_log::96::[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6996
+ * Running on http://192.168.29.94:6996
+2024-04-20 17:07:01,634::werkzeug::_internal.py::_log::96::[33mPress CTRL+C to quit[0m
+2024-04-20 17:07:07,940::root::api.py::flask_api::54::Fetching data from request...
+2024-04-20 17:07:07,940::root::api.py::flask_api::56::Data Fetched!
+2024-04-20 17:07:08,228::root::api.py::flask_api::69::Model loaded!
+2024-04-20 17:07:08,229::root::api.py::flask_api::72::Scaler loaded
+2024-04-20 17:07:08,234::werkzeug::_internal.py::_log::96::127.0.0.1 - - [20/Apr/2024 17:07:08] "POST /predict HTTP/1.1" 200 -
